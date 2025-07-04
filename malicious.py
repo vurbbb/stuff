@@ -1,4 +1,5 @@
 import maliciouslibrary
+from random import *
 
 //wtf am i doing
 i = 0
@@ -7,3 +8,4 @@ while i < 1000:
   i += 1
 
 print("Done!")
+print(i.random)
