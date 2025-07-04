@@ -4,8 +4,7 @@ website = "dnb.no"
 money = 100000000000
 bank_account = 1209.50.2222.22
 
-from website
-export money
-into bank_account
-run
-//why is this not working
+flag = failed_hacker
+while money < 0:
+  print(flag)
+  
