@@ -1,10 +1,7 @@
-import maliciouslibrary
+a = 2
+b = 3
 
-website = "dnb.no"
-money = 100000000000
-bank_account = 1209.50.2222.22
+total = a + b
 
-flag = failed_hacker
-while money < 0:
-  print(flag)
-  
+print(total/2)
+//fml
