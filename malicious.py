@@ -1,11 +1,10 @@
 import maliciouslibrary
-from random import *
 
-//wtf am i doing
-i = 0
-while i < 1000:
-  print(i)
-  i += 1
+website = "dnb.no"
+money = 100000000000
+bank_account = 1209.50.2222.22
 
-print("Done!")
-print(i.random)
+from website
+export money
+into bank_account
+run
